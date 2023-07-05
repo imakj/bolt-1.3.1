@@ -4,7 +4,7 @@
 package bolt
 
 // maxMapSize represents the largest mmap size supported by Bolt.
-const maxMapSize = 107374182400 // 100G
+const maxMapSize = 10737418240 // 100G
 
 // maxAllocSize is the size used when creating array pointers.
 const maxAllocSize = 0x7FFFFFFF
