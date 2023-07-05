@@ -1,5 +1,5 @@
-//go:build arm64
-// +build arm64
+//go:build riscv64
+// +build riscv64
 
 package bolt
 
